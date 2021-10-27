@@ -1,8 +1,7 @@
 ### Hi there, I'm Fernando Lins 👋
 
 
-- 
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m studyng development systems in Estácio de Sá 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
