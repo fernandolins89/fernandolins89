@@ -2,5 +2,5 @@
 
 
 - 👯 I’m currently learning HTML, CSS, JavaScript and Cybersecurity.
-- 📫 How to reach me: fernandolins89@yahoo.com.br
+- 📫 How to reach me: fernandolins89@gmail.com
 - ⚡ Love: dogs 
